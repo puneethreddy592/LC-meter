@@ -101,25 +101,7 @@ By measuring the resonant frequency, the LC meter can calculate the unknown valu
 
 ---
 
-## 5. Discussion
 
-### 5.1 Observations
-- Calibration sensitivity impacts accuracy.
-- External frequency counters could improve precision.
-- Isolating oscillation and signal shaping stages is crucial.
-
-### 5.2 Challenges Faced
-- **Proteus Complexity:** Time-consuming for beginners.
-- **Component Limitations:** Accurate inductors were hard to find.
-- **Time Constraints:** Limited experimentation time.
-
-### 5.3 Solutions and Improvements
-- Improved frequency measurement using external counters.
-- Enhanced calibration procedures.
-- Better stage isolation to avoid unwanted interactions.
-- User-friendly interface improvements.
-
----
 
 ## 6. To-Do / Future Improvements
 - Identify and fix the missing connection between the Arduino and the circuit.
@@ -133,7 +115,7 @@ By measuring the resonant frequency, the LC meter can calculate the unknown valu
 
 ---
 
-## 7. References
+## 6. References
 1. Hecht, N. (1979). *A simple and accurate LC meter.* Electronics Today International, 8(10), 48-51.
 2. Online resources on electronics, microcontroller programming, and circuit simulation.
 
@@ -141,3 +123,7 @@ By measuring the resonant frequency, the LC meter can calculate the unknown valu
 
 ## PDF Link
 ([View Original PDF](https://github.com/puneethreddy592/LC-meter/blob/3abda31cb7ff0e77441874aacc601e771d690b4a/LC%20Meter.pdf))
+
+## License
+
+This project is open-source and available under the MIT License.
